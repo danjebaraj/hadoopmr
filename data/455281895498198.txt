@@ -1,0 +1,1000 @@
+Jaxon, hot chocolate, 3
+Robert, orange juice, 3
+Scarlett, orange juice, 3
+Lucy, hot chocolate, 4
+Brody, hot chocolate, 3
+Makayla, milk, 5
+Sophia, coffee, 7
+Jacob, tea, 7
+Serenity, orange juice, 4
+Madeline, milk, 5
+Miles, coffee, 1
+Brantley, hot chocolate, 4
+Aubrey, tea, 7
+Emily, coffee, 4
+Camden, coffee, 4
+Aiden, coffee, 4
+Carter, orange juice, 4
+Naomi, orange juice, 2
+Chase, coffee, 4
+Kaiden, milk, 4
+Autumn, hot chocolate, 2
+Brody, hot chocolate, 5
+Joseph, milk, 3
+Cooper, tea, 1
+Katherine, coffee, 4
+Chase, orange juice, 4
+Ella, orange juice, 5
+Madelyn, orange juice, 4
+Chloe, tea, 1
+Kennedy, milk, 1
+Makayla, tea, 7
+Scarlett, tea, 7
+Josiah, tea, 9
+Jaxson, hot chocolate, 5
+Ian, coffee, 10
+Aria, tea, 1
+Bentley, milk, 4
+Arianna, coffee, 7
+James, orange juice, 4
+Dominic, coffee, 4
+Paisley, hot chocolate, 5
+Grayson, coffee, 13
+Morgan, tea, 5
+Michael, coffee, 10
+Brayden, coffee, 13
+Kennedy, coffee, 10
+Cooper, milk, 1
+Nathaniel, milk, 1
+Michael, orange juice, 1
+London, orange juice, 1
+Carter, tea, 9
+William, orange juice, 1
+Audrey, coffee, 7
+James, orange juice, 1
+Asher, tea, 9
+David, milk, 2
+Sadie, hot chocolate, 5
+Amelia, orange juice, 1
+Claire, hot chocolate, 3
+Kylie, milk, 4
+David, tea, 3
+Audrey, tea, 5
+Hannah, coffee, 1
+Melanie, milk, 5
+Aubree, milk, 4
+Aria, coffee, 4
+Dominic, coffee, 1
+Kaiden, hot chocolate, 2
+Victoria, orange juice, 2
+Amelia, milk, 4
+Kylie, milk, 3
+Tristan, tea, 9
+Madelyn, milk, 2
+Tristan, coffee, 4
+Dylan, orange juice, 3
+Sydney, tea, 1
+Jack, coffee, 1
+Logan, tea, 9
+Bryson, milk, 1
+Victoria, orange juice, 5
+Riley, orange juice, 4
+Mia, hot chocolate, 1
+Aria, orange juice, 2
+Brody, orange juice, 4
+Ethan, orange juice, 3
+Kayden, coffee, 4
+Hadley, hot chocolate, 3
+Caroline, orange juice, 5
+Audrey, orange juice, 3
+Elizabeth, orange juice, 5
+Serenity, hot chocolate, 1
+Easton, orange juice, 5
+Scarlett, orange juice, 4
+Micah, tea, 7
+Nolan, hot chocolate, 2
+Aaron, orange juice, 4
+Emma, orange juice, 2
+Sawyer, coffee, 7
+Riley, coffee, 7
+Nathaniel, orange juice, 1
+Brandon, milk, 5
+Hadley, milk, 1
+Reagan, milk, 5
+Miles, hot chocolate, 3
+Khloe, tea, 9
+Camden, tea, 7
+Daniel, tea, 5
+Jayden, coffee, 7
+Kevin, coffee, 7
+Aubree, hot chocolate, 1
+Layla, coffee, 4
+Logan, orange juice, 2
+Gabriel, hot chocolate, 1
+Dylan, orange juice, 2
+Sophie, orange juice, 3
+Genesis, orange juice, 2
+Taylor, milk, 3
+Annabelle, hot chocolate, 5
+Alyssa, coffee, 7
+Madeline, orange juice, 2
+Liam, hot chocolate, 2
+Lilly, orange juice, 3
+Jordan, tea, 1
+Emma, coffee, 7
+Ethan, hot chocolate, 5
+Daniel, hot chocolate, 3
+Bentley, orange juice, 5
+James, hot chocolate, 1
+Annabelle, hot chocolate, 5
+Anthony, orange juice, 2
+Mia, hot chocolate, 5
+Chloe, orange juice, 5
+Sophie, hot chocolate, 5
+Lily, milk, 2
+Makayla, milk, 2
+Miles, hot chocolate, 3
+Piper, orange juice, 4
+Caleb, tea, 7
+Joshua, orange juice, 4
+Brandon, milk, 2
+Ryan, milk, 3
+Jack, coffee, 7
+Sydney, hot chocolate, 3
+London, coffee, 13
+Adrian, coffee, 4
+Wyatt, hot chocolate, 2
+Brantley, hot chocolate, 5
+Peyton, coffee, 10
+Jace, hot chocolate, 4
+Lauren, milk, 5
+Jayceon, tea, 1
+Lillian, milk, 3
+Trinity, tea, 9
+William, coffee, 10
+Sofia, coffee, 4
+Khloe, milk, 4
+Morgan, tea, 3
+Stella, hot chocolate, 2
+Asher, tea, 7
+Kaiden, orange juice, 1
+Thomas, tea, 1
+Evan, milk, 2
+Allison, hot chocolate, 5
+Aubrey, milk, 5
+Lilly, hot chocolate, 3
+Nora, tea, 5
+Cooper, tea, 5
+Sydney, coffee, 13
+Sebastian, milk, 4
+Carson, tea, 5
+Mackenzie, coffee, 10
+Zachary, milk, 4
+Levi, orange juice, 1
+Chloe, hot chocolate, 2
+Dylan, coffee, 13
+Lydia, orange juice, 1
+Aubree, hot chocolate, 3
+Kinsley, orange juice, 3
+Kayden, milk, 1
+Carson, coffee, 7
+Hadley, milk, 3
+Layla, coffee, 7
+Carson, tea, 3
+Lillian, tea, 5
+Kayden, orange juice, 4
+Lydia, coffee, 7
+Mary, orange juice, 3
+Parker, milk, 2
+Gavin, coffee, 4
+Carter, coffee, 1
+Jacob, orange juice, 4
+Stella, milk, 4
+Arianna, coffee, 13
+Eli, coffee, 7
+Jordan, tea, 7
+Jace, hot chocolate, 1
+Alexa, orange juice, 3
+Emily, hot chocolate, 5
+Easton, hot chocolate, 2
+Christopher, coffee, 13
+Taylor, orange juice, 3
+Brody, milk, 5
+Wyatt, coffee, 4
+Angel, orange juice, 1
+Christopher, orange juice, 2
+Luke, coffee, 7
+Lilly, hot chocolate, 1
+Natalie, tea, 3
+Isaiah, tea, 5
+Jeremiah, orange juice, 5
+Grayson, tea, 1
+Genesis, tea, 1
+Annabelle, orange juice, 1
+Arianna, milk, 1
+Kaylee, milk, 2
+Gabriella, hot chocolate, 3
+Henry, orange juice, 4
+Nathaniel, orange juice, 2
+Austin, milk, 2
+Sophie, coffee, 7
+Owen, orange juice, 3
+Mary, coffee, 4
+Ella, hot chocolate, 3
+Riley, milk, 3
+Amelia, hot chocolate, 5
+Nolan, orange juice, 4
+Hailey, orange juice, 5
+Sophie, orange juice, 4
+Cooper, coffee, 7
+Lucy, tea, 3
+Jeremiah, orange juice, 1
+Angel, milk, 4
+Victoria, hot chocolate, 2
+Miles, hot chocolate, 4
+Reagan, coffee, 1
+Nathan, orange juice, 1
+Sophia, hot chocolate, 4
+Bryson, milk, 2
+Kinsley, hot chocolate, 5
+Colton, tea, 3
+Gavin, orange juice, 1
+Madelyn, hot chocolate, 4
+Madison, milk, 5
+Ashton, coffee, 1
+Penelope, milk, 1
+Zoe, hot chocolate, 2
+Hannah, tea, 7
+Kaiden, hot chocolate, 1
+Sarah, milk, 4
+Madelyn, hot chocolate, 2
+Jaxon, milk, 3
+Avery, tea, 3
+Savannah, milk, 4
+Carson, coffee, 7
+Easton, coffee, 10
+Alexander, tea, 3
+Josiah, hot chocolate, 1
+Gabriella, milk, 1
+Easton, orange juice, 4
+Piper, milk, 3
+Autumn, tea, 9
+Gabriel, tea, 3
+Christopher, tea, 7
+Nathaniel, tea, 7
+Brantley, milk, 1
+Lauren, coffee, 1
+Thomas, orange juice, 4
+Olivia, orange juice, 4
+Cooper, coffee, 1
+Aaliyah, orange juice, 5
+John, coffee, 1
+Nathan, orange juice, 4
+David, coffee, 10
+Anna, coffee, 1
+Anthony, coffee, 4
+Lucas, milk, 4
+Nathaniel, hot chocolate, 1
+Piper, coffee, 13
+Alexa, hot chocolate, 2
+Bailey, orange juice, 5
+Savannah, coffee, 10
+Serenity, orange juice, 3
+Julian, coffee, 4
+David, orange juice, 4
+Londyn, milk, 1
+Brayden, coffee, 10
+Jace, coffee, 1
+Matthew, tea, 3
+Oliver, milk, 3
+Michael, orange juice, 4
+Braxton, tea, 3
+Levi, coffee, 1
+Samuel, milk, 4
+Gabriel, hot chocolate, 1
+Bentley, orange juice, 1
+Luke, tea, 1
+Lucy, hot chocolate, 3
+Jose, orange juice, 2
+Serenity, hot chocolate, 5
+Henry, milk, 3
+Lily, orange juice, 5
+Sawyer, milk, 1
+Emma, tea, 3
+Autumn, orange juice, 2
+Arianna, hot chocolate, 5
+Naomi, hot chocolate, 3
+Camila, milk, 4
+Christopher, hot chocolate, 5
+Elijah, coffee, 13
+Khloe, orange juice, 3
+Michael, hot chocolate, 4
+Addison, hot chocolate, 5
+Julian, coffee, 1
+Avery, orange juice, 1
+Grace, tea, 1
+Hailey, milk, 5
+Leah, tea, 1
+Anthony, milk, 3
+Jayden, milk, 3
+Claire, hot chocolate, 5
+Reagan, tea, 9
+Chloe, tea, 7
+Jace, milk, 5
+Charlotte, coffee, 4
+Carter, orange juice, 2
+Julian, orange juice, 2
+Chase, coffee, 1
+Natalie, hot chocolate, 2
+Riley, milk, 5
+Claire, tea, 3
+Samantha, coffee, 1
+Arianna, coffee, 10
+Levi, milk, 2
+Kaylee, hot chocolate, 5
+Carter, tea, 1
+Victoria, tea, 5
+Savannah, hot chocolate, 1
+Miles, coffee, 13
+Isaiah, coffee, 13
+Avery, orange juice, 4
+Kevin, hot chocolate, 4
+Liam, coffee, 13
+Madeline, orange juice, 4
+Allison, tea, 7
+Jayden, orange juice, 2
+Isaiah, milk, 1
+Hudson, coffee, 4
+Lucas, coffee, 13
+Clara, coffee, 1
+Ian, coffee, 13
+Landon, milk, 1
+Sadie, hot chocolate, 5
+Cooper, milk, 1
+Addison, hot chocolate, 4
+Sawyer, hot chocolate, 5
+Miles, tea, 9
+Avery, hot chocolate, 4
+Camden, orange juice, 5
+Liam, tea, 9
+Aaron, orange juice, 2
+Ariana, orange juice, 3
+Evelyn, tea, 3
+Nora, milk, 3
+Elijah, tea, 5
+Kaylee, hot chocolate, 2
+Lucas, coffee, 4
+Stella, coffee, 7
+Alexis, milk, 4
+Connor, coffee, 10
+Olivia, hot chocolate, 1
+Aria, hot chocolate, 5
+Grayson, hot chocolate, 5
+Mckenzie, tea, 3
+Sophie, orange juice, 3
+Abigail, hot chocolate, 3
+Leah, tea, 7
+Addison, orange juice, 2
+Caleb, milk, 2
+Aria, coffee, 7
+Evelyn, milk, 4
+Khloe, tea, 1
+Zoey, tea, 1
+Hadley, coffee, 10
+Brantley, coffee, 10
+Lillian, tea, 3
+Harper, milk, 4
+Aubree, milk, 1
+Jack, coffee, 7
+Charles, milk, 2
+Michael, orange juice, 1
+Aria, hot chocolate, 1
+Penelope, orange juice, 2
+Lily, orange juice, 4
+Thomas, hot chocolate, 4
+Paisley, tea, 5
+Madeline, orange juice, 3
+Jaxon, coffee, 10
+Jeremiah, tea, 5
+Genesis, orange juice, 1
+Jayden, hot chocolate, 4
+Jeremiah, tea, 9
+Kennedy, coffee, 1
+Emma, orange juice, 1
+Stella, coffee, 7
+Londyn, milk, 1
+Grace, hot chocolate, 5
+Sawyer, milk, 2
+Bailey, milk, 4
+Carson, orange juice, 3
+Tristan, hot chocolate, 4
+Madeline, coffee, 13
+Isaac, tea, 9
+Alexis, milk, 2
+Makayla, hot chocolate, 5
+Alexa, orange juice, 1
+Julian, hot chocolate, 5
+Arianna, milk, 1
+Madeline, tea, 7
+Nora, coffee, 10
+Eleanor, orange juice, 4
+Jayceon, tea, 5
+Ariana, hot chocolate, 4
+Aaliyah, hot chocolate, 4
+Connor, orange juice, 1
+Sarah, orange juice, 3
+David, milk, 4
+Evan, coffee, 1
+Jordan, coffee, 7
+Lillian, milk, 1
+Levi, orange juice, 4
+Ryan, coffee, 7
+Connor, hot chocolate, 4
+Landon, hot chocolate, 5
+Brantley, milk, 3
+Addison, tea, 1
+Clara, hot chocolate, 3
+Anna, hot chocolate, 1
+Madison, coffee, 10
+Clara, tea, 5
+Nathaniel, orange juice, 5
+Samantha, hot chocolate, 1
+Savannah, coffee, 10
+Hannah, milk, 5
+Samantha, coffee, 10
+Cooper, coffee, 4
+Anthony, tea, 7
+Jaxon, orange juice, 5
+Genesis, milk, 4
+Kevin, hot chocolate, 2
+Morgan, coffee, 1
+Robert, milk, 4
+Madeline, milk, 3
+Jonathan, orange juice, 4
+Morgan, tea, 9
+Isaiah, orange juice, 1
+Daniel, coffee, 1
+Camila, coffee, 10
+Sophia, coffee, 4
+Charlotte, milk, 4
+Parker, orange juice, 4
+Zoe, coffee, 1
+Nathan, tea, 3
+Jordan, coffee, 4
+Lucy, hot chocolate, 3
+Luke, orange juice, 2
+Jaxon, tea, 9
+Serenity, milk, 4
+Emily, tea, 9
+Stella, tea, 3
+Mary, hot chocolate, 2
+Dylan, milk, 3
+Arianna, orange juice, 3
+Charles, coffee, 10
+Evelyn, orange juice, 4
+Serenity, coffee, 10
+Eleanor, tea, 5
+Lucas, milk, 2
+Claire, milk, 1
+Lilly, coffee, 13
+Isaac, tea, 5
+Melanie, tea, 7
+Samantha, coffee, 1
+Jose, orange juice, 5
+Makayla, hot chocolate, 4
+Ian, milk, 3
+Nevaeh, hot chocolate, 3
+Charles, tea, 1
+Olivia, milk, 4
+Connor, orange juice, 5
+David, tea, 9
+Chloe, orange juice, 3
+Olivia, tea, 3
+Claire, tea, 3
+Aubree, tea, 9
+Bailey, milk, 5
+Eli, orange juice, 3
+Angel, tea, 5
+Hadley, hot chocolate, 5
+Bryson, milk, 2
+Kennedy, orange juice, 5
+Kayden, hot chocolate, 5
+Oliver, milk, 2
+Austin, coffee, 1
+Alyssa, milk, 1
+Ashton, tea, 1
+Peyton, hot chocolate, 5
+William, coffee, 1
+Ayden, milk, 3
+Mackenzie, tea, 1
+Dominic, tea, 1
+Trinity, hot chocolate, 5
+Tyler, orange juice, 2
+Brianna, orange juice, 5
+Amelia, milk, 1
+Joseph, hot chocolate, 2
+Ayden, milk, 3
+Dylan, hot chocolate, 2
+Jeremiah, tea, 7
+Jackson, tea, 7
+Sophie, orange juice, 1
+Arianna, milk, 2
+Charles, hot chocolate, 5
+Ashton, milk, 3
+Mary, coffee, 1
+Annabelle, tea, 7
+Mary, coffee, 4
+Genesis, tea, 5
+Ella, hot chocolate, 5
+Sarah, milk, 1
+Sophie, orange juice, 5
+Allison, coffee, 10
+Alexis, tea, 7
+Bentley, tea, 9
+Lilly, coffee, 13
+Riley, milk, 4
+Kaylee, tea, 5
+Josiah, hot chocolate, 1
+Matthew, tea, 9
+Arianna, coffee, 4
+Parker, hot chocolate, 1
+Noah, milk, 5
+Lucy, tea, 3
+Joshua, hot chocolate, 5
+Ellie, tea, 7
+Elijah, coffee, 4
+Sydney, milk, 3
+Joseph, tea, 1
+Caleb, tea, 3
+Braxton, orange juice, 5
+Robert, tea, 5
+Madelyn, coffee, 4
+Lydia, tea, 7
+London, orange juice, 5
+Samuel, hot chocolate, 5
+Annabelle, milk, 5
+Emma, coffee, 1
+Isaac, tea, 9
+Kinsley, tea, 5
+Jason, hot chocolate, 3
+Melanie, hot chocolate, 5
+Aubree, hot chocolate, 2
+Daniel, tea, 3
+Ethan, orange juice, 1
+Jack, hot chocolate, 4
+Tyler, tea, 3
+Brandon, tea, 5
+Sadie, orange juice, 2
+Dominic, milk, 5
+Nora, hot chocolate, 5
+Charlotte, coffee, 4
+Micah, coffee, 10
+Isaac, coffee, 10
+Layla, coffee, 4
+Thomas, tea, 3
+Parker, orange juice, 5
+Zoey, tea, 1
+Nathaniel, hot chocolate, 1
+Ryan, tea, 3
+Kaiden, milk, 5
+Hudson, tea, 9
+Jordan, hot chocolate, 1
+Alexa, coffee, 4
+Chloe, hot chocolate, 3
+Ian, orange juice, 5
+Tyler, milk, 5
+Katherine, orange juice, 2
+Avery, hot chocolate, 3
+Grayson, hot chocolate, 4
+Kylie, coffee, 1
+Isaiah, coffee, 10
+Micah, milk, 3
+Aubrey, milk, 1
+Easton, orange juice, 5
+Alyssa, orange juice, 5
+Camila, coffee, 13
+Nolan, milk, 5
+Asher, hot chocolate, 3
+Mary, milk, 2
+Amelia, orange juice, 1
+Amelia, tea, 9
+Melanie, hot chocolate, 2
+Alexa, hot chocolate, 1
+James, hot chocolate, 2
+Ava, orange juice, 5
+Wyatt, coffee, 4
+Wyatt, tea, 7
+Mary, tea, 3
+Addison, hot chocolate, 4
+Lilly, orange juice, 4
+David, hot chocolate, 3
+Joshua, hot chocolate, 1
+Lilly, tea, 9
+Leah, tea, 9
+Khloe, milk, 3
+Thomas, orange juice, 3
+Mia, hot chocolate, 1
+Wyatt, orange juice, 5
+Oliver, coffee, 13
+Jayceon, orange juice, 4
+Harper, orange juice, 2
+Lily, hot chocolate, 1
+Alexa, milk, 5
+Hudson, orange juice, 1
+Faith, milk, 2
+Arianna, hot chocolate, 2
+Ian, tea, 5
+Stella, hot chocolate, 5
+Lillian, tea, 5
+Brandon, tea, 3
+Leah, coffee, 13
+Kinsley, hot chocolate, 1
+Michael, coffee, 7
+Christopher, hot chocolate, 2
+Miles, milk, 5
+Logan, orange juice, 2
+Joshua, orange juice, 4
+Ashton, tea, 9
+Arianna, coffee, 1
+Kinsley, coffee, 1
+Mary, orange juice, 5
+Madelyn, hot chocolate, 3
+Zoe, hot chocolate, 5
+London, orange juice, 1
+Morgan, milk, 1
+William, hot chocolate, 5
+Lydia, orange juice, 4
+Adrian, tea, 3
+Easton, orange juice, 5
+Brooklyn, coffee, 7
+Clara, orange juice, 4
+Sawyer, milk, 3
+Savannah, orange juice, 5
+Jonathan, hot chocolate, 3
+Zoe, hot chocolate, 4
+Brayden, hot chocolate, 1
+Aubrey, coffee, 13
+Christopher, orange juice, 3
+Lillian, milk, 5
+Reagan, hot chocolate, 4
+Alyssa, tea, 3
+Zoe, hot chocolate, 2
+Ella, tea, 3
+Piper, hot chocolate, 3
+Ayden, hot chocolate, 4
+Lucy, milk, 3
+Gavin, milk, 2
+Savannah, coffee, 13
+Parker, tea, 9
+Aiden, hot chocolate, 1
+Sydney, coffee, 4
+Zoey, coffee, 10
+Khloe, milk, 1
+Eli, milk, 3
+Luke, milk, 4
+David, coffee, 10
+Elizabeth, hot chocolate, 5
+Michael, orange juice, 1
+Andrew, hot chocolate, 3
+Trinity, orange juice, 5
+Kaylee, orange juice, 4
+London, coffee, 7
+Oliver, orange juice, 2
+Brantley, orange juice, 4
+Christian, milk, 5
+Nevaeh, tea, 5
+Alyssa, tea, 3
+Liam, orange juice, 1
+Penelope, tea, 9
+Jackson, orange juice, 2
+Ryan, coffee, 10
+Cooper, hot chocolate, 3
+Braxton, coffee, 13
+Kennedy, milk, 5
+Serenity, hot chocolate, 3
+Genesis, coffee, 4
+Nathan, milk, 1
+Lauren, tea, 7
+Sophia, hot chocolate, 1
+Thomas, coffee, 7
+Robert, coffee, 7
+Robert, hot chocolate, 5
+Alexis, coffee, 13
+Paisley, coffee, 4
+Jeremiah, hot chocolate, 1
+Nicholas, orange juice, 4
+Emma, coffee, 10
+Lillian, orange juice, 4
+Annabelle, milk, 5
+Lydia, hot chocolate, 2
+Reagan, coffee, 4
+Emma, coffee, 13
+Samuel, hot chocolate, 1
+Camden, coffee, 1
+Joshua, hot chocolate, 5
+London, hot chocolate, 5
+Connor, coffee, 10
+Naomi, tea, 5
+Kaiden, milk, 3
+Taylor, coffee, 7
+Grayson, orange juice, 3
+Melanie, hot chocolate, 5
+Madison, tea, 5
+Jaxson, hot chocolate, 2
+Aubree, tea, 1
+Melanie, coffee, 1
+Jayceon, tea, 9
+Alexis, orange juice, 4
+Serenity, milk, 4
+Ashton, orange juice, 3
+Owen, hot chocolate, 5
+Aaron, hot chocolate, 4
+Aaron, orange juice, 3
+Carter, orange juice, 5
+Genesis, tea, 7
+Cora, tea, 1
+Aaliyah, coffee, 13
+Robert, coffee, 1
+Cooper, orange juice, 4
+Charles, milk, 1
+Matthew, orange juice, 4
+Miles, hot chocolate, 2
+Avery, hot chocolate, 2
+Sydney, hot chocolate, 3
+Dylan, orange juice, 5
+Micah, milk, 2
+Ethan, tea, 9
+Ella, hot chocolate, 4
+Sawyer, orange juice, 2
+Jacob, coffee, 7
+Audrey, tea, 9
+Aubrey, hot chocolate, 2
+Kennedy, milk, 1
+Katherine, hot chocolate, 1
+Alexa, milk, 3
+Madeline, hot chocolate, 3
+Alexa, hot chocolate, 5
+David, tea, 9
+Benjamin, milk, 3
+Jackson, orange juice, 4
+Peyton, orange juice, 3
+Nevaeh, hot chocolate, 3
+Dominic, milk, 3
+Hannah, orange juice, 3
+Aaron, milk, 4
+Caroline, hot chocolate, 2
+Savannah, orange juice, 5
+Taylor, tea, 7
+Levi, hot chocolate, 3
+Brantley, milk, 4
+Alyssa, orange juice, 5
+Jackson, orange juice, 5
+Madelyn, milk, 1
+Daniel, orange juice, 2
+Elijah, milk, 3
+Hannah, hot chocolate, 1
+Annabelle, coffee, 13
+Daniel, tea, 5
+Mason, hot chocolate, 1
+Katherine, tea, 9
+Anna, orange juice, 3
+Braxton, hot chocolate, 2
+Mckenzie, hot chocolate, 3
+Elijah, hot chocolate, 2
+Gabriel, hot chocolate, 5
+Mackenzie, tea, 9
+Cooper, coffee, 13
+Micah, coffee, 1
+Melanie, orange juice, 1
+Katherine, orange juice, 5
+Liam, coffee, 13
+Lucy, orange juice, 2
+Dominic, hot chocolate, 5
+Oliver, coffee, 7
+Faith, milk, 1
+Isaac, hot chocolate, 2
+James, hot chocolate, 2
+Ethan, coffee, 13
+Jaxson, coffee, 10
+Jackson, coffee, 4
+Hadley, coffee, 10
+Jordan, coffee, 10
+Camden, coffee, 4
+Bailey, orange juice, 2
+Lilly, orange juice, 4
+Riley, orange juice, 5
+Mia, coffee, 13
+Adrian, orange juice, 3
+Cooper, coffee, 1
+Nathan, orange juice, 3
+Cora, hot chocolate, 3
+Sophie, orange juice, 1
+Thomas, tea, 9
+Wyatt, milk, 5
+James, orange juice, 3
+Bella, coffee, 4
+Bentley, coffee, 1
+Katherine, orange juice, 2
+Madeline, milk, 5
+Eleanor, milk, 1
+Eli, tea, 1
+Aubrey, milk, 3
+Evan, coffee, 10
+Addison, coffee, 7
+Adrian, tea, 7
+Gavin, orange juice, 2
+Aubree, coffee, 13
+Avery, orange juice, 2
+Evelyn, orange juice, 3
+Cooper, orange juice, 3
+Madison, hot chocolate, 3
+Zoey, coffee, 1
+Ryan, hot chocolate, 1
+Christopher, milk, 5
+London, hot chocolate, 2
+Sadie, hot chocolate, 3
+Jason, tea, 7
+Trinity, orange juice, 4
+Carson, milk, 4
+Grace, hot chocolate, 4
+Hannah, orange juice, 3
+Joshua, hot chocolate, 3
+Brody, tea, 5
+William, tea, 5
+Benjamin, tea, 5
+Zoe, hot chocolate, 3
+Brianna, milk, 4
+Cameron, coffee, 7
+Tyler, milk, 1
+Oliver, coffee, 10
+Landon, coffee, 7
+Daniel, orange juice, 2
+Serenity, orange juice, 5
+Lucas, hot chocolate, 2
+Ayden, hot chocolate, 3
+Genesis, hot chocolate, 1
+Mckenzie, tea, 5
+Madison, hot chocolate, 2
+Ella, hot chocolate, 1
+Trinity, orange juice, 5
+Hunter, milk, 3
+Liam, orange juice, 1
+Sydney, milk, 5
+Aubrey, coffee, 13
+Avery, orange juice, 5
+Ella, hot chocolate, 2
+Dominic, orange juice, 2
+Lillian, tea, 5
+Evan, tea, 9
+William, orange juice, 1
+Olivia, coffee, 4
+Ellie, coffee, 4
+Olivia, coffee, 7
+Kennedy, orange juice, 1
+Cameron, tea, 3
+Tyler, hot chocolate, 4
+Piper, coffee, 10
+Ashton, hot chocolate, 1
+Layla, hot chocolate, 1
+Anthony, orange juice, 4
+Madison, milk, 2
+Savannah, orange juice, 1
+Ava, milk, 3
+Elijah, hot chocolate, 5
+Sofia, orange juice, 2
+Faith, milk, 5
+Ryan, tea, 1
+Leah, coffee, 13
+Micah, milk, 5
+Abigail, tea, 5
+Mckenzie, coffee, 10
+Penelope, coffee, 7
+Mary, tea, 5
+Emily, coffee, 13
+Ayden, milk, 5
+Leah, milk, 1
+Leah, hot chocolate, 3
+Madelyn, orange juice, 1
+Nathaniel, hot chocolate, 1
+Camila, orange juice, 1
+Matthew, orange juice, 1
+John, coffee, 10
+Sydney, orange juice, 1
+Ashton, hot chocolate, 1
+Grayson, tea, 7
+Autumn, coffee, 10
+Chase, milk, 5
+Austin, milk, 2
+David, orange juice, 2
+Anthony, milk, 2
+Grace, orange juice, 3
+Sawyer, coffee, 13
+Naomi, milk, 3
+Chase, coffee, 10
+Mackenzie, orange juice, 5
+Riley, milk, 5
+Joshua, hot chocolate, 5
+Ava, milk, 1
+Brooklyn, hot chocolate, 3
+Bella, coffee, 13
+Hadley, tea, 3
+Addison, hot chocolate, 2
+Anthony, coffee, 4
+Sarah, orange juice, 2
+Zoey, orange juice, 4
+Lillian, tea, 9
+Sophia, hot chocolate, 3
+Ian, hot chocolate, 5
+Natalie, hot chocolate, 5
+Braxton, orange juice, 2
+Jacob, tea, 3
+Hailey, tea, 1
+Layla, tea, 7
+Anthony, hot chocolate, 5
+Gavin, hot chocolate, 2
+Zoe, milk, 5
+Levi, coffee, 13
+Ariana, milk, 5
+Scarlett, tea, 1
+Mia, hot chocolate, 3
+Lauren, hot chocolate, 5
+Charles, orange juice, 4
+Miles, tea, 3
+Zoey, orange juice, 4
+Taylor, hot chocolate, 3
+Ashton, tea, 3
+David, milk, 2
+Austin, tea, 7
+Brandon, coffee, 4
+Austin, orange juice, 2
+Sebastian, hot chocolate, 2
+Nicholas, orange juice, 5
+Mason, tea, 5
+Bentley, hot chocolate, 2
+Sawyer, hot chocolate, 1
+Camila, milk, 5
+Lilly, orange juice, 4
+Khloe, orange juice, 5
+Cora, hot chocolate, 1
+Cameron, hot chocolate, 5
+Robert, milk, 5
+Micah, coffee, 4
+Chase, tea, 9
+Mckenzie, hot chocolate, 3
+Ellie, milk, 2
+Anna, hot chocolate, 2
+Daniel, coffee, 4
+Brianna, milk, 4
+Wyatt, orange juice, 1
+Ian, orange juice, 2
+Jason, orange juice, 3
+Brody, milk, 2
+Bryson, orange juice, 2
+Gabriel, coffee, 10
+Adrian, milk, 4
+Grayson, orange juice, 5
+Jaxon, milk, 5
+Luke, hot chocolate, 1
+Anthony, milk, 1
+Eli, milk, 2
+Jayden, orange juice, 1
+Hudson, hot chocolate, 2
+Aria, hot chocolate, 1
+Joseph, milk, 5
+Clara, tea, 3
+Matthew, tea, 5
+Sophia, coffee, 13
+Ellie, orange juice, 2
+Kevin, milk, 2
+Nathan, orange juice, 2
+Andrew, hot chocolate, 4
+Parker, tea, 3
+Joshua, milk, 2
+Charlotte, orange juice, 5
+Anthony, milk, 5
+Naomi, tea, 1
+Aubrey, orange juice, 2
+Layla, orange juice, 1
+Hailey, orange juice, 5
+Kaiden, orange juice, 4
+Genesis, tea, 7

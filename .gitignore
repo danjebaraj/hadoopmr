@@ -1,0 +1,17 @@
+data-for-hadoop/
+.classpath
+target/
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.cache-main
+.project
+.gradle
+build/
