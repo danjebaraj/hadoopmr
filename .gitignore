@@ -1,4 +1,8 @@
 data-for-hadoop/
+!/data 
+!/data/*.csv
+/data/*.txt
+gen-projects.ps1
 .classpath
 target/
 .metadata/

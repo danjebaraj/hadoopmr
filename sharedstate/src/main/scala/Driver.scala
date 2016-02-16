@@ -9,9 +9,8 @@ object Driver {
     for (i <- 1 to 5) {
       val thread = new Thread {
         override def run {
-          for (i <- 0 to 10){
+          for (i <- 0 to 100){
             sum += i
-            println(s"Thread ID: ${Thread.currentThread().getId}. Sum: $sum")  
           }
           
           println(s"Thread ID: ${Thread.currentThread().getId} has finished running.")  
@@ -21,7 +20,7 @@ object Driver {
       thread.start
     }
     
-    Thread.sleep(3000)
+    Thread.sleep(2000)
     println(s"Sum is $sum")
   }
 }
