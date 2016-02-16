@@ -17,7 +17,7 @@ mainClassName = 'com.syncfusion.CupCount'
 sourceCompatibility = 1.7
 jar {
     manifest {
-        attributes 'Implementation-Title': 'Gradle Quickstart',
+        attributes 'Implementation-Title': 'Cup Count Hadoop Sample',
                    'Main-Class': 'com.syncfusion.CupCount'
     }
 }
@@ -33,10 +33,4 @@ dependencies {
 	compile fileTree(dir: "$syncfusionHadoopMapreduceJar", include: '*.jar')
 	compile fileTree(dir: "$syncfusionHadoopYarnJar", include: '*.jar')
 	compile fileTree(dir: "$syncfusionHadoopToolsJar", include: '*.jar')
-}
-
-task runJar (type:Exec){
-	environment 'JAVA_HOME', '$syncfusionPath/Java/jdk1.7.0_51'
-	environment 'HADOOP_HOME', '$syncfusionHadoopSDKPath'
-	commandLine 'cmd', '/c', "$syncfusionHadoopSDKPath/bin/hadoop jar $projectDir/build/libs/hadoopcupcount.jar"
 }
